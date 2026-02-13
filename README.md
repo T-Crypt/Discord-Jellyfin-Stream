@@ -1,6 +1,7 @@
 # Discord-Jellyfin-Stream
 Stream Jellyfin 24/7 + Recovery 
 
+```
 Controller Service
    ├ Jellyfin API integration
    ├ Discord bot interface
@@ -17,3 +18,4 @@ User Layer
    ├ Discord commands
    ├ Voting / playlists
    └ Sync state
+```
